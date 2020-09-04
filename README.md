@@ -1,5 +1,5 @@
 #Hello world
 
-I am $harperman KeyzLA previously known as Flongy Keyz.
+I am $harperman KeyzLA also known as Flongy Keyz.
 
 I'm here for a while.
